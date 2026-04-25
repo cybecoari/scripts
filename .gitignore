@@ -1,0 +1,8 @@
+.env
+vendor/
+logs/
+backups/
+uploads/
+config/
+id_rsa
+id_rsa.pub

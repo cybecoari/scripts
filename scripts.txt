@@ -1,0 +1,8 @@
+cd /storage/emulated/0/ssh
+
+git init
+git add .
+git commit -m "upload scripts ssh"
+git branch -M main
+git remote add origin https://github.com/cybecoari/scripts.git
+git push -u origin main
